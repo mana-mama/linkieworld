@@ -333,6 +333,10 @@ section div.content-box .grid-small-box .small-box h3 {
     text-decoration: underline;
 }
 
+section div.content-box .grid-small-box .small-box h3 a {
+    color: black;
+}
+
 section div.content-box .grid-small-box .small-box p {
     position: absolute;
     top: 8rem;
